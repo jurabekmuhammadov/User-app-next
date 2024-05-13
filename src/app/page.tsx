@@ -1,5 +1,5 @@
+import UserList from "@/components/UserList";
+
 export default function Home() {
-  return (
-    <h1>Helllo</h1>
-  );
+  return <UserList />
 }
